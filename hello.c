@@ -5,5 +5,6 @@
 #include<stdio.h>
 
 int main(void){
-    printf("My Name Andri Junaedi \nHello World!");
+    printf("My Name Andri Junaedi \nHello World!\n");
+    return 0;
 }
