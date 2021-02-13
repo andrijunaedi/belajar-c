@@ -3,10 +3,10 @@
 int main(){
     int i = 0;
 
-    while (i < 3){
-       printf("Learning C Programming Language \n");
-       i++;
-    }
-
+    do {
+        printf("Learning C Programming Language \n");
+        i++;
+    } while (i < 5);
+    
     return 0;
 }
